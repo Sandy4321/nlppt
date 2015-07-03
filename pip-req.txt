@@ -1,0 +1,10 @@
+gensim>=0.11
+jellyfish>=0.5
+mock>=1
+nlpnet>=1.2
+nltk>=3.0.3
+Pattern>=2.6
+pytest>=2.7.2
+pytest-cov>=1.8.1
+python-crfsuite>=0.8.3
+topia.termextract>=1.1.0
